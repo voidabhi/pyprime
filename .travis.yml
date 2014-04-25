@@ -1,0 +1,11 @@
+language: python
+python:
+    - 2.7
+    - 3.3
+script:
+    - python test_prime.py
+notifications:
+  email: false
+branches:
+  only:
+    - master
