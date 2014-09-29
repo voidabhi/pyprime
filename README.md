@@ -1,4 +1,4 @@
-python_prime
+Python prime
 ============
 
 dummy repo to understand travis workflow.
