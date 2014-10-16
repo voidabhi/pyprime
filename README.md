@@ -1,4 +1,4 @@
 Python prime
 ============
 
-dummy repo to understand travis workflow.
+Dummy repo to understand travis workflow.
