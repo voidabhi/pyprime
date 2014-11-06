@@ -1,6 +1,6 @@
 Python Prime
 ============
 
-Dummy repo to understand git and travis workflow.
+Trivial repo to understand git and travis workflow.
 
 
