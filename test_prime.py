@@ -2,6 +2,7 @@
 
 # importing unit test library
 import unittest
+# importing the class or function that needs to be tested
 from prime import is_prime
 
 class PrimeTestCase(unittest.TestCase):
